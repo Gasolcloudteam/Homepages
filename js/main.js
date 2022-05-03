@@ -192,7 +192,7 @@ $('#switchmore').on('click', function () {
     } else {
         $('#container').attr('class', 'container');
         $("#change").html("Hello&nbsp;World&nbsp;!");
-        $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+        $("#change1").html("总是在错过一些人和事情中学会长大，然后更加不知道自己想要什么，挺难的。");
     }
 });
 
@@ -241,7 +241,7 @@ window.addEventListener('load', function () {
             //移动端隐藏更多页面
             $('#container').attr('class', 'container');
             $("#change").html("Hello&nbsp;World&nbsp;!");
-            $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+            $("#change1").html("总是在错过一些人和事情中学会长大，然后更加不知道自己想要什么，挺难的。");
 
             //移动端隐藏弹窗页面
             $('#box').css("display", "none");
@@ -315,7 +315,7 @@ color: rgb(244,167,89);
 var styleContent = `
 color: rgb(30,152,255);
 `
-var title1 = '無名の主页'
+var title1 = '星尘の主页'
 var title2 = `
  _____ __  __  _______     ____     __
 |_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
